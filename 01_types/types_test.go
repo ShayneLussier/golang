@@ -19,7 +19,7 @@ func Example_predeclaredDataTypes() {
 }
 
 func Example_zeroValue() {
-	// When variables are declared but not initialized they carry the data types' zero value
+	// When variables are declared but not initialized they carry the data type's zero value
 	// initializing a variable with it's zero value makes it clear that it is intended
 	var (
 		a bool    // false
