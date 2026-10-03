@@ -1,5 +1,0 @@
-package complex
-
-func Demo() {
-
-}
