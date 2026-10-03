@@ -93,7 +93,7 @@ func Example_declaration() {
 	// most verbose way
 	var a int = 10
 
-	// if the type on the right of '=' is the expected type you can ommit it
+	// if the type on the right of '=' is the expected type you can omit it
 	var b = 20
 
 	// multiple variables at the same time. can be different types
